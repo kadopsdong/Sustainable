@@ -1,4 +1,4 @@
-# Entwicklung einer Klemmbaustein-Sortiermaschine | Rudolf-Diesel-Fachschule (KI-Projekt)
+# Entwicklung einer Klemmbaustein-Sortiermaschine
 Zeitaufwand: 20 Stunden
 
 Projektteilnehmer: 4
