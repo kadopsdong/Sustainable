@@ -1,0 +1,4 @@
+0 Nichts
+1 Blau
+2 Rot
+3 Gelb
